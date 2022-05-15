@@ -14,11 +14,9 @@ author: tomtiv
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Faq: "start"
   Resources: "resources"
-  Help: "help"
-  Author's home: "https://tomtiv.me"
+  Faq: "start"
+  About Me: "aboutme"
 
 # --- Logo --- #
 
