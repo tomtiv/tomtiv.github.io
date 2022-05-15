@@ -1,3 +1,8 @@
+# Beautiful Jekyll / Dean Attali
+# 2fc73a3a967e97599c9763d05e564189
+
+
+
 [![](https://i.imgur.com/zNBkzj1.png)](https://beautifuljekyll.com/plans/)
 
 # Beautiful Jekyll
@@ -12,6 +17,8 @@
 
 ## Table of contents
 
+- [Beautiful Jekyll / Dean Attali](#beautiful-jekyll--dean-attali)
+- [2fc73a3a967e97599c9763d05e564189](#2fc73a3a967e97599c9763d05e564189)
 - [Beautiful Jekyll](#beautiful-jekyll)
   - [Table of contents](#table-of-contents)
 - [Features](#features)
