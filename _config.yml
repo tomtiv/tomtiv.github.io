@@ -14,15 +14,9 @@ author: tomtiv
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  WHat's this all about: "start"
   About Me: "aboutme"
-  Faq's: "faq"
-  Faq: "faqmd"
+  Faq: "start"
   Resources: "resources"
-  Links:
-    - youtube: "youtube.com"
-    - Need Help?: "http://youtube.com"
-    - Mental Health: "https:/home.tomtiv.me"
   Help: "help"
   Author's home: "https://tomtiv.me"
 
