@@ -9,7 +9,7 @@
 title: A Year Without You
 
 # Your name to show in the footer
-author: Thomas
+author: tomtiv
 
 # --- List of links in the navigation bar --- #
 
@@ -17,17 +17,20 @@ navbar-links:
   WHat's this all about: "start"
   About Me: "aboutme"
   Faq's: "faq"
-  Faq: "faqmd"  
-  # Resources:
-  #  - YouTube: "http://youtube.com"
-  #  - Mental Health: "https:/home.tomtiv.me"
-  # Author's home: "https://tomtiv.me"
+  Faq: "faqmd"
+  Resources: "resources"
+  Links:
+    - youtube: "youtube.com"
+    - Need Help?: "http://youtube.com"
+    - Mental Health: "https:/home.tomtiv.me"
+  Help: "help"
+  Author's home: "https://tomtiv.me"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/hello_world.jpeg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true

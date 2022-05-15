@@ -1,7 +1,7 @@
 ---
 layout: page
-title: What is this?
-subtitle: This is a way to help me process and accept a significant lose in my life.
+title: What is all this?
+# subtitle: This is a way to help me process and accept a significant lose in my life.
 ---
 
 My name is Inigo Montoya. I have the following qualities:
