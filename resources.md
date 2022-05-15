@@ -5,9 +5,13 @@ title: Resources
 ---
 
 {: .box-warning}
-**Warning:** If you are in a vunerable place, I would stringly suggest that you look for support locally. While these are good resources, the break-up/ex-back industry is extremly predetiry, please do not sign up for anything from anybody. 
+**Warning:** If you are in a vulnerable place, I strongly suggest that you look for support locally. 
+While these are good resources, it is by no means a linear path, it takes a lot of time and energy.
+
+
 
 ### YouTube
+
 
 [Ask Craig](https://www.youtube.com/channel/UCO60mX6WGDgrk0R27c8COKQ)
 
