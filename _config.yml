@@ -17,7 +17,8 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Blog: "https://tomtiv.github.io"
-  Author's home: "https://tomtiv.me
+    - Mental Health: "https:/home.tomtiv.me"
+  Author's home: "https://tomtiv.me"
 
 # --- Logo --- #
 
