@@ -15,7 +15,6 @@ author: tomtiv
 
 navbar-links:
   About Me: "aboutme"
-  Faq: "start"
   Resources: "resources"
 
 # --- Logo --- #
@@ -29,7 +28,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/img/hello_world.jpeg"
+# title-img: "/assets/img/hello_world.jpeg"
 
 # --- Footer social media links --- #
 
@@ -71,9 +70,9 @@ rss-description: This website is proof that I have a heart and soul.
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
@@ -93,7 +92,7 @@ feed_show_tags: true
 post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "tomtiv, broken, heart, ex, wife"
+keywords: "tomtiv, broken, heart, ex, wife, loss"
 
 # --- Colours / background image --- #
 
