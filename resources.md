@@ -19,7 +19,7 @@ I found this channel to the best resource by far. There's no doubt they know wha
 
 [PDS](https://www.youtube.com/channel/UCHQ4lSaKRap5HyrpitrTOhQ)
 
-Thais daily videos are hit or miss, sometimes the video are 1/2 ads and other times she has great information. This is where I would start if you truly want to do the work. She covers a lot of topics and makes them every easy to understand. You cna;t go wrong with this one, it just takes time. Thais also has the Professional Development School are a great resource, but it's very expensive. I would only suggest joinnig if you are not able to get a therapist locally.
+Thais daily videos are hit or miss, sometimes the video are 1/2 ads and other times she has great information. This is where I would start if you truly want to do the work. She covers a lot of topics and makes them every easy to understand. You cna;t go wrong with this one, it just takes time. Thais also has the Personal Development School are a great resource, but it's very expensive. I would only suggest joinnig if you are not able to get a therapist locally.
 
 
 [The Truth of Love](https://www.youtube.com/c/TheTruthofLove)
