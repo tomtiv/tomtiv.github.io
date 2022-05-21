@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: The Aftermath Of Us
+title: A Year Without You
 
 # Your name to show in the footer
 author: tomtiv
@@ -35,10 +35,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: tomtiv@gmail.com`
+  email: tomtiv@gmail.com
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-  github: tomtiv
+  # github: tomtiv
   # twitter: tomtiv
 #  patreon: DeanAttali
   # youtube: tomtiv
@@ -54,7 +54,7 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-  telegram: tomtiv
+  # telegram: tomtiv
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar

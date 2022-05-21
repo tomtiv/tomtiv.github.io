@@ -5,8 +5,6 @@ zags: [strugles, understand, lose]
 comments: false
 ---
 
-Hi Steph,
-
 It really did take me 6 months to accept that you weren't coming back. 
 I knew you were the one for me, I was sure we were meant for each other and we would have a lifetime together.
 I was and still am in love you, I can't imagine ever not being in love with you.
