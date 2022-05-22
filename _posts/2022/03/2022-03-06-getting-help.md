@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Asking For Help
-zags: [*, help, nervous, EL, ZENA, angels]
+zags: [I, help, nervous, EL, ZENA, angels]
 comments: true
 ---
 I couldn't get through this alone, I looked everwhere adn spoke to everyone I could find trying to get help. 

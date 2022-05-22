@@ -1,7 +1,7 @@
 ---
 layout: post
 title: One Step Forward, 3 Steps Back
-zags: [*, song, understand, love, hate]
+zags: [I, song, understand, love, hate]
 comments: true
 ---
 You got me fucked up in the head, Never doubted myself so much

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dandelion into the wind you go
-zags: [*, song, hope, love, loss]
+zags: [song, hope, love, loss]
 comments: true
 ---
 How I've always felt about you!
