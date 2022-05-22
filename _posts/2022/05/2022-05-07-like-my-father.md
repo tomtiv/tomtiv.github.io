@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Like my father loves my mom
-zags: [*, song, future, love, plans, lies, wrong]
+zags: [song, future, love, plans, lies, wrong]
 comments: true
 ---
 The song's video hit me like a truck, it was like watching the life I had started with her.
