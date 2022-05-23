@@ -5,7 +5,7 @@ zags: [fight, reality, cry]
 comments: true
 ---
 
-Schools has finished and the holidays have passed, I have no idea what I am supose to do now.
+Schools has finished and the holidays have passed, I have no idea what I am suppose to do now.
 I have been looking forward to this for 3 years, I worked so damn hard to make it to this point.
 I've never felt this kind of pain in my life, I can barely function. I bareley eat or sleep, I cry all day everyday.
 How does someone go from telling you how much they love you to ghosting you in barely 24 hrs.
