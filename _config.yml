@@ -137,7 +137,7 @@ footer-hover-col: "#0085A1"
 #google_analytics: ""
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
-#cloudflare_analytics: ""
+cloudflare_analytics: "e3e3d9dac69344fd9d72e61b6dcf26ff"
 
 # --- Comments --- #
 
