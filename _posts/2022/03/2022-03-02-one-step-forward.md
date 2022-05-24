@@ -12,6 +12,7 @@ __Lyrics__
 > I'm the love of your life until I make you mad   
 > It's always one step forward and three steps back   
 > Do you love me, want me, hate me?    
-> Girl, I don't understand, No, I don't understand   
+> Girl, I don't understand,    
+> No, I don't understand   
 
 [1 step forward, 3 steps back - Olivia Rodrigo](https://youtu.be/w-HfMiue7-k/)
