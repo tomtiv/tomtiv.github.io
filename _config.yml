@@ -37,24 +37,24 @@ round-avatar: true
 social-network-links:
   email: tomtiv@gmail.com
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-#  facebook: deanattali
-  # github: tomtiv
-  # twitter: tomtiv
+  github: tomtiv
+#  facebook: tomtiv
+#  twitter: tomtiv
 #  patreon: DeanAttali
-  # youtube: tomtiv
+#  youtube: tomtiv
 #  medium: yourname
 #  reddit: yourname
-  # linkedin: tomtiv
+#  linkedin: tomtiv
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  # instagram: tomtiv
+#  instagram: tomtiv
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-  # telegram: tomtiv
+#  telegram: tomtiv
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
@@ -86,13 +86,13 @@ excerpt_length: 20
 feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+feed_show_tags: false
 
 # Add a search button to the navbar
 post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "tomtiv, broken, heart, ex, wife, loss"
+keywords: "tomtiv, sam, broken, heart, ex, wife, loss"
 
 # --- Colours / background image --- #
 
@@ -193,7 +193,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: false  # add comments to all blog posts
+      comments: true  # add comments to all blog posts
       social-share: false # add social media sharing buttons to all blog posts
   -
     scope:
