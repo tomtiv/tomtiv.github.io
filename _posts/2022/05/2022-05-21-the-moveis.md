@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Went To The Movies
-zags: [movie, punish, wtf, sad]
+tags: [movie, punish, wtf, sad]
 comments: true
 ---
+I saw Sr Strange: Into the Multiverse   
+
+It only took 1 0min to regret going to see the movvie.

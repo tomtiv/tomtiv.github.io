@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dandelion into the wind you go
-zags: [song, hope, love, loss]
+tags: [song, sam, hope, love, loss]
 comments: true
 ---
 __Lyrics__

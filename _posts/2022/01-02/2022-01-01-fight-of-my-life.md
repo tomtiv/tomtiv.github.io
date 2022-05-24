@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fight of my life
-zags: [fight, reality, cry]
+tags: [fight, reality, cry]
 comments: true
 ---
 

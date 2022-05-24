@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 40 Days till hell week!
-zags: [hell, 5yrs, aniversary, cottage, sad]
+tags: [hell, 5yrs, aniversary, cottage, sad]
 comments: true
 ---
 40 days until this summers cottage vacation, it also happens to fall on what would have been Sam and my 5 yr anniversary.

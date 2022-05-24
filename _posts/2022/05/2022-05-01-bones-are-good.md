@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When the bones are good, the rest don't matter
-zags: [song, sam, hope, love, bones]
+tags: [song, sam, hope, love, bones]
 comments: true
 ---
 __Lyrics__
