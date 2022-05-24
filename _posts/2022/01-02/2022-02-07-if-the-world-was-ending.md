@@ -1,7 +1,7 @@
 ---
 layout: post
 title: If the world was ending
-zags: [song, healthy, change, help]
+tags: [song, sam, healthy, change, help]
 comments: true
 ---
 __Lyrics__
