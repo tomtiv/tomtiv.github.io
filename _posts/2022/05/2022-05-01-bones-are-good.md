@@ -5,6 +5,7 @@ zags: [song, sam, hope, love, bones]
 comments: true
 ---
 __Lyrics__
+
 > We're in the homestretch of the high times   
 > We took a hard left But we're alright   
 > Yeah, life sure can try to put love through it, but   
