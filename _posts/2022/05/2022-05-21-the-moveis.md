@@ -4,6 +4,7 @@ title: Went To The Movies
 tags: [movie, punish, wtf, sad]
 comments: true
 ---
-I saw Sr Strange: Into the Multiverse   
+Do you ever feel like you are being punished excessivly and you really should know why, but you dont?   
 
-It only took 1 0min to regret going to see the movvie.
+I went to see "Dr Strange: Into the Multiverse", It only took 10 min to regret going to see the movie.    
+They reveal the motivation for the 2 main charecters and it hit way too close to home.    
