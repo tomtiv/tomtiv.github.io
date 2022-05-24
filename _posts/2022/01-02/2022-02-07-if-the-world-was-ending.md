@@ -19,5 +19,5 @@ __Lyrics__
 > Stumbled in the house And didn't make it past the kitchen   
 > Ah, it's been a year now Think I've figured out how   
 > How to think about you without it rippin' my heart out   
-   
-[If The World Was Ending - Jp Saxe](https://youtu.be/7viR3P6jeRQ/)
+
+<a href="https://youtu.be/c6Ddco9LHZA/" target="_blank">If The World Was Ending - JP Saxe</a>
