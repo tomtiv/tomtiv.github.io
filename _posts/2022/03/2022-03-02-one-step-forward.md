@@ -5,6 +5,7 @@ zags: [song, understand, love, hate]
 comments: true
 ---
 __Lyrics__
+
 > You got me fucked up in the head, Never doubted myself so much   
 > Like, am I pretty? Am I fun, girl?   
 > I hate that I give you power over that kind of stuff   
@@ -15,4 +16,4 @@ __Lyrics__
 > Girl, I don't understand,    
 > No, I don't understand   
 
-[1 step forward, 3 steps back - Olivia Rodrigo](https://youtu.be/w-HfMiue7-k/)
+<a href="https://youtu.be/w-HfMiue7-k/" target="_blank">1 step forward, 3 steps back - Olivia Rodrigo</a>
