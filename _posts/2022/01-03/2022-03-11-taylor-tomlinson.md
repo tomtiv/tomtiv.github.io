@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Taylor Tomlinson - Look At You
-tags: [taylor, funny, NEW]
+tags: [taylor, funny, entertainment]
 # cover-img: /assets/img/taylor-tom.jpg
-thumbnail-img: /assets/img/taylor-tom.jpg
+# thumbnail-img: /assets/img/taylor-tom.jpg
 comments: true
 ---
 Dead Mom's, Bi-Polar, Arms floaties and ssri's   
