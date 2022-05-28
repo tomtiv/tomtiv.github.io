@@ -2,7 +2,7 @@
 layout: post
 title: Taylor Tomlinson - Look At You
 tags: [taylor, funny, NEW]
-cover-img: /assets/img/taylor-tom.jpg
+# cover-img: /assets/img/taylor-tom.jpg
 thumbnail-img: /assets/img/taylor-tom.jpg
 comments: true
 ---
