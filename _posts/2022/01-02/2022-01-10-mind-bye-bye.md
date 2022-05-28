@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ADHD and Me
+title: Losing My Mind
 zags: [adhd, strugles, reality]
 comments: true
 ---
