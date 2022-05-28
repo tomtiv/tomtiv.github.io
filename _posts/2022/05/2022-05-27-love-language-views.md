@@ -11,4 +11,4 @@ She arrived and gave me my bday girft, which is what took her so long to get hom
 
 This came up in a session with zee, she thought that was very sweet and not something most people would do. I agreed with that, the issue was that Sam and I have diffrent love languages, at the time neother of us even knew we had love languages.    
 
-For me quality time is number 1 by a landslide, words of affirmation, acts of services and then gifts. Sam's love language was act's of service, quality time, words of affimation then gifts. Even though it doesn;lt look very diffrent between us, since we weren;t even aware of this concept often we bith felkt we spoke complete diffrent languages and some of our problems felt impossible to solve.
+For me quality time is number 1 by a landslide, words of affirmation, acts of services and then gifts. Sam's love language was act's of service, quality time, words of affimation then gifts. Even though it doesn;lt look very diffrent between us, since we weren;t even aware of this concept often we both felt as if we spoke completely diffrent languages and some of our problems felt impossible to solve.
