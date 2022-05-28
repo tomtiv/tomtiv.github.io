@@ -26,8 +26,6 @@ __Lyrics__
 > But the wolves came and went and we're still standing    
 > When the bones are good, the rest don't matter   
 -->
-   
-[The Bones - Maren Morris](https://youtu.be/2WT18Uh0rWU/)
-
+[The Bones (Lyruc Video) - Maren Morris](https://youtu.be/2WT18Uh0rWU/)   
 
 <div id='rg_embed_link_4330744' class='rg_embed_link' data-song-id='4330744'>Read <a href='https://genius.com/Maren-morris-the-bones-lyrics'>“The Bones” by Maren Morris</a> on Genius</div> <script crossorigin src='//genius.com/songs/4330744/embed.js'></script>
