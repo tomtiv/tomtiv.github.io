@@ -9,4 +9,4 @@ I've always heard that men are less emotional and struggle to share thier emotio
 I've always been an emotional guy, right or wrong I use my emotions\feelings as my northern star.   
    
 I like who I am , I'm not ashamed of any of my scares.
-every scare I have is from fighting for someone or something I love.
+every scar I have is from fighting for someone or something I love.

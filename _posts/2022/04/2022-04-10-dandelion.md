@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dandelion into the wind you go
-tags: [song, sam, hope, love, loss]
+tags: [song, sam, hope, love, loss, dandelion]
 comments: true
 ---
 __Lyrics__
@@ -12,5 +12,5 @@ __Lyrics__
 > 'Cause I'm in a field of dandelions, Wishing on every one that you'll be mine   
 > I see forever in your eyes   
 > Dandelion, into the wind you go, Won't you let my darling know?
-      
+
 [Dandelions - Ruth B.](https://youtu.be/WgTMeICssXY/)
