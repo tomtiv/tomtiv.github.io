@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cluster B, labels and traits
-tags: [cluster, b, scars, blame, dangerous]
+tags: [cluster, b, scars, blame, dangerous, NEW]
 comments: true
 ---
 I fully support people using labels to help themselves understand behaviours and learn healthy and constructive behaviours.   

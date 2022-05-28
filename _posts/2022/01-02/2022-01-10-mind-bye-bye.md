@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Losing My Mind
-zags: [adhd, strugles, reality]
+tags: [adhd, strugles, reality]
 comments: true
 ---
 School has finished and the holidays have passed, I have no idea what I am supposed to do now. My mind feels like it's out of control

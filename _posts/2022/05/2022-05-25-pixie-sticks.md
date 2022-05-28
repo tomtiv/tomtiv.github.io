@@ -3,7 +3,7 @@ layout: post
 title: Pixie Stick Overdose
 tags: [EL, sick, pixie, dust, funny]
 cover-img: /assets/img/pixiedust.jpg
-thumbnail-img: /assets/img/pixiedust.jpg
+thumbnail-img: /assets/img/pixiebundle.jpg
 comments: true
 ---
 EL had to take the day off, as she wasn't feeling well. I was kind of bummed, not have her tell me what to do for an hour!
