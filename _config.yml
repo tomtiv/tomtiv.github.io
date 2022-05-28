@@ -15,6 +15,7 @@ author: tomtiv
 
 navbar-links:
   About Me: "aboutme"
+  faq: "faq"
   Resources: "resources"
 
 # --- Logo --- #
@@ -28,7 +29,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-# title-img: "/assets/img/hello_world.jpeg"
+title-img: "/assets/img/hello_world.jpeg"
 
 # --- Footer social media links --- #
 
@@ -54,11 +55,11 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-#  telegram: tomtiv
+telegram: tomtiv
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-#  discord: invite/invite_code or users/userid 
+discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
 
@@ -118,23 +119,23 @@ footer-hover-col: "#0085A1"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-#mobile-theme-col: "#0085A1"
+mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-#site-css:
-#  - "/assets/css/custom-styles.css"
+site-css:
+  - "/assets/css/custom-styles.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
-#site-js:
-#  - "/assets/js/custom-script.js"
+site-js:
+  - "/assets/js/custom-script.js"
 
 # --- Web Analytics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "G-XD201D26CJ"
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-#google_analytics: ""
+google_analytics: "G-35QLSPB213"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 cloudflare_analytics: "e3e3d9dac69344fd9d72e61b6dcf26ff"
