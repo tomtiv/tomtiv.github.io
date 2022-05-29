@@ -181,7 +181,7 @@ date_format: "%B %-d, %Y"
 # Filtering Content
 # show_drafts         : null
 # limit_posts         : 0
-future: false
+future: true
 
 timezone: "America/Toronto"
 markdown: kramdown
