@@ -177,6 +177,12 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
+
+# Filtering Content
+# show_drafts         : null
+# limit_posts         : 0
+future: false
+
 timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
@@ -185,6 +191,7 @@ paginate: 10
 
 kramdown:
   input: GFM
+  html_to_native: true
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
