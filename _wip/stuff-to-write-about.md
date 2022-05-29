@@ -1,9 +1,3 @@
----
-layout: post
-title: This is me
-zags: [me, scars, anxiety]
-comments: true
----
 
 The most importnat thing in life for me has always been finding that special someone that I could share my life with but I've always been 
 extremely selective in who I am willing to let in.  

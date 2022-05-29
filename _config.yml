@@ -39,29 +39,29 @@ social-network-links:
   email: tomtiv@gmail.com
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 # github: tomtiv
-#  facebook: tomtiv
-#  twitter: tomtiv
-#  patreon: DeanAttali
-#  youtube: tomtiv
-#  medium: yourname
-#  reddit: yourname
-#  linkedin: tomtiv
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: tomtiv
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
+# facebook: tomtiv
+# twitter: tomtiv
+# patreon: DeanAttali
+# youtube: tomtiv
+# medium: yourname
+# reddit: yourname
+# linkedin: tomtiv
+# xing: yourname
+# stackoverflow: "3943160/daattali"
+# snapchat: deanat78
+# instagram: tomtiv
+# spotify: yourname
+# telephone: +14159998888
+# steam: deanat78
+# twitch: yourname
+# yelp: yourname
 # telegram: tomtiv
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+# mastodon: instance.url/@username
+# ORCID: your ORCID ID
+# google-scholar: your google scholar
 # discord: invite/invite_code or users/userid 
-#  kaggle: yourname
-#  hackerrank: yourname
+# kaggle: yourname
+# hackerrank: yourname
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
@@ -88,6 +88,7 @@ feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
 feed_show_tags: false
+page_show_tags: false
 
 # Add a search button to the navbar
 post_search: true
@@ -179,8 +180,9 @@ date_format: "%B %-d, %Y"
 # Output options (more information on Jekyll's site)
 
 # Filtering Content
-# show_drafts         : null
-# limit_posts         : 0
+
+# show_drafts: null
+# limit_post: 0
 future: true
 
 timezone: "America/Toronto"
@@ -201,7 +203,8 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: true      # add comments to all blog posts
+      show_tags: false    # Show post tags
       social-share: false # add social media sharing buttons to all blog posts
   -
     scope:
@@ -218,7 +221,6 @@ exclude:
   - LICENSE
   - README.md
   - screenshot.png
-  - docs/
   - _wip
 
 plugins:
