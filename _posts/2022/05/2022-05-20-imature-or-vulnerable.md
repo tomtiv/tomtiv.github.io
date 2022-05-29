@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Imature or Vulnerable
-tags: [imature, vulnerable, kid, honest]
+tags: [imature, vulnerable, honest]
 comments: true
 ---
 Most of my life I didn't know who, what or even how I could count on to be there for me.
