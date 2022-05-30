@@ -9,7 +9,7 @@ I went to see "Dr Strange: Into the Multiverse", It only took 10 min to regret g
 
 They reveal the motivation for the 2 main charecters and it hit way too close to home  
 
-Dr Strange learns that he cannot be with the love of his live Christine, in any universe.
+Dr Strange learns that he cannot be with the love of his life, Christine, in any universe.
 Scarlet Witch is willing to destroy the entire multiverse to have her kids with her, even if it hurts her children.  
 
 Are you F$@#% serious! Just what I needed
