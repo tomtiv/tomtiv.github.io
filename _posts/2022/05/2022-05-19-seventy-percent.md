@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 70 percent of relationships issues are never solved
+title: 70 % of relationship issues never get solved
 tags: [shocked, issues, never, solved]
 comments: true
 ---
