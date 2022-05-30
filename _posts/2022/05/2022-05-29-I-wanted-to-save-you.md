@@ -4,10 +4,10 @@ title: Thought I Could Save You
 tags: [sam, save, mistake, lies]
 comments: true
 ---
-I heard a song on my walk, that I had never heard before, I couldn;t think of hearing any song even remotely close to it.
+I heard a song on my walk, that I had never heard before, I could;t think of hearing any song even remotely close to it.
 It's not a breakup song, it's so much more than that, It's a reality check. I don't ever remember a song making me feel this way before.
 
-The song was called Flowers and almost immediatly after hearing the song I felt sick to my stomach,
+The song was called Flowers and almost immediately after hearing the song I felt sick to my stomach,
 I got a bit dizzy and felt like I was going to throw up, It was the worst and darkest emotion/feeling
 that I have had over the past 8 months.
 
