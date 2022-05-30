@@ -163,7 +163,7 @@ cloudflare_analytics: "e3e3d9dac69344fd9d72e61b6dcf26ff"
 staticman:
  repository: "tomtiv/tomtiv.github,io"
  branch: master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
- endpoint: "https://tomtiv.github.io/v3/entry/github/"  # URL of your deployment, with a trailing slash eg. "https://<your-api>/v3/entry/github/"
+ endpoint: "https://<your-api>/v3/entry/github/"  # URL of your deployment, with a trailing slash eg. "https://<your-api>/v3/entry/github/"
 #  reCaptcha:   # (optional, set these parameters in `staticman.yml` as well) 
 #    siteKey  : # You need to apply for a site key on Google
 #    secret   : # Encrypt your password by going to https://<your-own-api>/v3/encrypt/<your-site-secret>
