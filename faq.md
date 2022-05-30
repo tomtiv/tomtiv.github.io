@@ -3,7 +3,7 @@ layout: page
 title: faq
 # subtitle: 
 ---
-{: .box-warning}
+{: .box-note}
 If you happen to know either Sam or me personally please keep it to yourself. At no point am I tryign to blame, shame or any otehr kind of negative action to anyoen else. We are all just doing the best we can with the tools we have. If you choose to cause someone unnecessary grief, you may not like the outcome.   
 
 And now the FAQ   

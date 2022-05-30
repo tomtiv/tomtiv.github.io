@@ -2,7 +2,7 @@
 layout: page
 title: Resources
 ---
-{: .box-warning}
+{: .box-note}
 **Warning:** If you are in a vulnerable place, I strongly suggest that you look for support locally. 
 While these are good resources, it is by no means a linear path, it takes a lot of time and energy.
 
@@ -17,5 +17,5 @@ Thais daily videos are hit or miss, sometimes the videos are 1/2 ads and other t
 [The Truth of Love](https://www.youtube.com/c/TheTruthofLove)
 Clutch's videos are different then the rest, he's looking at things from less of a textbook place, which I found to be a nice change ge of pace.There's also a free Discord server, I was on it for about a month. It's well worth joining, especially if you are struggling. The motot is No Spiraling and they mean it.
 
-[Heidi Prebee](https://www.youtube.com/channel/UCqX3KQWXJll7_6orfHFuqBQ)
+[Heidi Prebe](https://www.youtube.com/channel/UCqX3KQWXJll7_6orfHFuqBQ)
 I found her very late in my journey, while she does tailors her videos to her Personality type, which is ENFP. She goes much deeper into other topics as well. She hasn't been making as many videos but I've seen all of them.
