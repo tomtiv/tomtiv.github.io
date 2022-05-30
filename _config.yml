@@ -38,7 +38,7 @@ round-avatar: true
 social-network-links:
   email: tomtiv@gmail.com
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-# github: tomtiv
+  github: tomtiv-me
 # facebook: tomtiv
 # twitter: tomtiv
 # patreon: DeanAttali
@@ -160,10 +160,10 @@ cloudflare_analytics: "e3e3d9dac69344fd9d72e61b6dcf26ff"
 # instructions. For any support with staticman please direct questions to staticman and 
 # not to BeautifulJekyll.
 
-staticman:
- repository: "tomtiv/tomtiv.github.io"
- branch: master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
- endpoint: "https://365.tomtiv.me/v3/entry/github/"  # URL of your deployment, with a trailing slash eg. "https://<your-api>/v3/entry/github/"
+# staticman:
+#  repository: "tomtiv/tomtiv.github.io"
+#  branch: master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+#  endpoint: "https://365.tomtiv.me/v3/entry/github/"  # URL of your deployment, with a trailing slash eg. "https://<your-api>/v3/entry/github/"
 #  reCaptcha:   # (optional, set these parameters in `staticman.yml` as well) 
 #    siteKey  : # You need to apply for a site key on Google
 #    secret   : # Encrypt your password by going to https://<your-own-api>/v3/encrypt/<your-site-secret>

@@ -19,7 +19,7 @@ comments:
   # When allowedOrigins is defined, only requests sent from one of the domains
   # listed will be accepted. The origin is sent as part as the `options` object
   # (e.g. <input name="options[origin]" value="https://yourdomain.com/post1")
-  allowedOrigins: ["https://365.tomtiv.me"]
+  # allowedOrigins: ["https://365.tomtiv.me"]
 
   # (*) REQUIRED
   #
@@ -54,16 +54,16 @@ comments:
   moderation: true
 
   # Akismet spam detection.
-  akismet:
-    enabled: true
-    author: "name"
-    authorEmail: "email"
-    authorUrl: "url"
-    content: "message"
-    type: "comment"
+  # akismet:
+  #   enabled: true
+  #   author: "name"
+  #   authorEmail: "email"
+  #   authorUrl: "url"
+  #   content: "message"
+  #   type: "comment"
 
   # Name of the site. Used in notification emails.
-  name: "365.tomtiv.me"
+  # name: "365.tomtiv.me"
 
   # Notification settings. When enabled, users can choose to receive notifications
   # via email when someone adds a reply or a new comment. This requires an account
