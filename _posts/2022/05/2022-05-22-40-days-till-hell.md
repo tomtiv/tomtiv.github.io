@@ -2,8 +2,8 @@
 layout: post
 title: 40 Days till hell week!
 tags: [hell, 5yrs, anniversary, cottage]
-cover-img: /assets/img/40days.png
-thumbnail-img: /assets/img/40days.png
+cover-img: /assets/img/hell-week-bg.jpg
+thumbnail-img: /assets/img/hell-week-bg.jpg
 comments: true
 ---
 40 days until this summers cottage vacation, it also happens to fall on what would have been Sam and my 5 yr anniversary.  
