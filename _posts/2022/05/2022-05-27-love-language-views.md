@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Love Language And Perception
-tags: [sam, zee, love, language, perception, bray]
+title: Love Language, Perception
+tags: [sam, zee, love, language, perception]
+cover-img: /assets/img/love-lang.jpg
+thumbnail-img: /assets/img/love-lang.jpg
 comments: true
 ---
 Terrible bday 2020...  

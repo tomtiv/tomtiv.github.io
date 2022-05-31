@@ -1,7 +1,9 @@
 ---
 layout: post
-title: I wasn't being honest with myself
+title: Self Deception
 tags: [zee, mislead, unsure, fail]
+cover-img: /assets/img/yes-no-bg.jpg
+thumbnail-img: /assets/img/yes-no.png
 comments: true
 ---
 I mentioned to zee that I had this odd feeling that I would hear from Sam again. I had no reason for thinking that I would hear from Sam. The more I thought about it the more I realized something.   

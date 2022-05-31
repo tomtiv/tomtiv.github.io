@@ -3,7 +3,7 @@ layout: post
 title: Bus Driver
 tags: [sam, save, lies, bus]
 cover-img: /assets/img/bus-driver-bg.jpg
-thumbnail-img: /assets/bus-driver.jpg
+thumbnail-img: /assets/img/bus-driver.jpg
 comments: true
 ---
 I heard a song on my walk, that I had never heard before, I could't think of hearing any song even remotely close to it.
