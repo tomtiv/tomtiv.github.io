@@ -3,7 +3,7 @@ layout: post
 title: Fireworks
 tags: [victoria, beach, fireworks, sad]
 cover-img: /assets/img/fireworks-bg.jpg
-thumbnail-img: /assets/img/fireworks.jpg
+thumbnail-img: /assets/img/fireworks-bg.jpg
 comments: true
 ---
 I went to the beaches to watch the fireworks by myself tonight. It was a huge revelation for me. I don't think I knew just how much of my life I had to rebuild, I lost everything, including who I thought I was.  
