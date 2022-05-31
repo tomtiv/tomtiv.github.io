@@ -2,7 +2,7 @@
 layout: post
 title: Fireworks
 tags: [victoria, beach, fireworks, sad]
-cover-img: /assets/img/fireworks.jpg
+cover-img: /assets/img/fireworks-bg.jpg
 thumbnail-img: /assets/img/fireworks.jpg
 comments: true
 ---

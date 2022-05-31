@@ -2,7 +2,8 @@
 layout: post
 title: When the bones are good
 tags: [song, sam, hope, love, bones]
-pigpen.png
+cover-img: /assets/img/bones-bg.jpg
+thumbnail-img: /assets/img/bones.jpg
 comments: true
 ---
 [The Bones (Lyruc Video) - Maren Morris](https://youtu.be/2WT18Uh0rWU/)   
