@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Fight of my life
-tags: [fight, reality, cry]
+title: Nightmare won't end
+tags: [sam, nightmare, awake, broken]
 cover-img: /assets/img/nightmare-bg.jpg
 thumbnail-img: /assets/img/nightmare.jpg
 comments: true
