@@ -9,7 +9,7 @@
 title: A Year Without You
 
 # Your name to show in the footer
-author: tomtiv
+author: Thomas T
 
 # --- List of links in the navigation bar --- #
 
@@ -38,7 +38,7 @@ round-avatar: true
 social-network-links:
   email: tomtiv@gmail.com
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: tomtiv-me
+  github: tomtiv
 # facebook: tomtiv
 # twitter: tomtiv
 # patreon: DeanAttali
