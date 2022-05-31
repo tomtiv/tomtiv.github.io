@@ -7,7 +7,7 @@ comments: true
 __Lyrics__
 >
 > I was distracted And in traffic, I didn't feel it When the earthquake happened   
-> But it really got me thinkin'Were you out drinkin'?   
+> But it really got me thinkin' Were you out drinkin'?   
 > Were you in the living room Chillin' watchin' television?   
 > It's been a year now, Think I've figured out how   
 > How to let you go and let communication die out   
