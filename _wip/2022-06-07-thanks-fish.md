@@ -16,4 +16,4 @@ The highlight of all this is she feels justified because she believes this is a 
 I'm finally seeing her for who she truly is, the fog is dissipating, the addiction is wearing off and I am seeing clearer now.
 There is absolutely no way I will allow myself to be in a relationship with that kind of person.
 
-Sam The Door Is Now Closed Permanently
+Sam The Door Is Now Permanently Closed, not that you would care anyway.
