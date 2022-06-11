@@ -15,11 +15,11 @@ author: Thomas T
 
 navbar-links:
   # About Me:
-  About Me: "aboutme"
+About Me: "aboutme"
     # Moving Forward: "next"    
-  faq: "faq"
+faq: "faq"
   # tldr: "tldr"
-  Resources: "resources"
+Resources: "resources"
 
 # --- Logo --- #
 
