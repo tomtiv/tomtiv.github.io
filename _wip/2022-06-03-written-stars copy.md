@@ -12,4 +12,4 @@ The biggest revelation to me is just how complicated a persons emotions are, and
 
 I have no idea why, but I decided to get a psychic reading, I didn't share any information with her to start, I answered a couple of questions and she started her story.  There was nothing ground breaking and most was generic at best, but one thing she said was that "She saw that our path was written in the stars". The fact that she said our, was a bit surprising, because I didn't mention anyone to her. The way she explained it was cool as well, I think I am going to read up about the idea myself, I'm curious to know more about it.
 
-This post doesn't really make sense to me.. lol..
+This post doesn't really make sense to me.. lol
