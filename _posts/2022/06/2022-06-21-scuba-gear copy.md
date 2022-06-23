@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Packing
+title: Scuba Gear
 tags: [sam, scuba, cottage, difficult]
 # cover-img: /assets/img/
 # thumbnail-img: /assets/img/
