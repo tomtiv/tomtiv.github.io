@@ -15,11 +15,11 @@ author: Thomas T
 
 navbar-links:
   # About Me:
-About Me: "aboutme"
+  About Me: "aboutme"
     # Moving Forward: "next"    
-faq: "faq"
+  faq: "faq"
   # tldr: "tldr"
-Resources: "resources"
+  Resources: "resources"
 
 # --- Logo --- #
 
@@ -39,9 +39,9 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: tomtiv@gmail.com
+  # email: tomtiv@gmail.com
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: tomtiv
+  # github: tomtiv
 # facebook: tomtiv
 # twitter: tomtiv
 # patreon: DeanAttali
@@ -84,7 +84,7 @@ share-links-active:
 url-pretty: "365.tomtiv.me"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 20
+excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
