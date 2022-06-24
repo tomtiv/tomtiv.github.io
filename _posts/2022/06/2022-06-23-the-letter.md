@@ -10,7 +10,7 @@ I was lucky enough to have one more session with Eleven today, it was bitter swe
 
 Thank you for everything El!
 
-***Note***
+***Note***  
 After writing this I almost deleted it because I felt very much like an imposter but decided against it. These are my words and they are what I ultimately want.
 
 ***THE LETTER***  
@@ -20,5 +20,5 @@ With everything I have, I sincerely apologize for the pain and heartbreak I caus
   
 I'm not going to spend my time and energy trying to get over you anymore, I'll love you for for the rest of my life, but with each day the pain I feel will be a little less. Eventually I will just be left with knowing we spent almost 5 years loving each other and that's something I would never want to forget. I forgive you for everything but I also forgive myself for everything, I think that is the best thing I could ever do for both of us.  
 
-I wish you all the best, I hope you find happiness and I hope you find the light inside you.
+I wish you all the best, I hope you find happiness and I hope you find the light inside you.  
 ~T
