@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Bad days are the new norm
 tags: [struggling]
 # cover-img: /assets/img/angel-bg.jpg
 # thumbnail-img: /assets/img/angel1.jpg
