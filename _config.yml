@@ -9,7 +9,7 @@
 title: A Year Without You
 
 # Your name to show in the footer
-author: Thomas T
+author: Thomas
 
 # --- List of links in the navigation bar --- #
 
@@ -90,7 +90,7 @@ excerpt_length: 50
 feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: false
+feed_show_tags: true
 page_show_tags: false
 
 # Add a search button to the navbar
