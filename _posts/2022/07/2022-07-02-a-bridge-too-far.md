@@ -10,7 +10,7 @@ I'd only been here once, it was a little more than 5 years ago.  I was finishing
 
 Things don't work out the way we want most of the time, life gets in the way, I knew I would never have that special moment I had planned in my head. So I decided if I was going to go back to that bridge there's no better day than our would have been 5 years together. When I go there I wasn't sure if I would be able to find the bridge, I wasn't paying attention the first time. It walked for a long time and started to think I wouldn't find it, but eventually I fond what I thought was the remains of our 1st time. I was disappointed, it felt wrong so as I started back to my car I kept looking to see if I was wrong and a few minutes later, I found the real bridge. I felt pretty awful once I had found the real bridge, it felt poetic, it just reminded me what we had done, we found this great thing together and instead of taking care of it, we let it rot away right under our feet.  
 
-***We started with this and turned it into this***s  {: .mx-auto.d-block :}  
+***We started with this and turned it into this***
 
 ![Started with this](https://365.tomtiv.me/assets/img/bridge-ours.jpg)
 ![Ended With This](https://365.tomtiv.me/assets/img/bridge-broken.jpg)  
