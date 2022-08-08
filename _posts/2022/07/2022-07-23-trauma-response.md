@@ -15,5 +15,5 @@ Im sure most people know this stuff already but I've had to learn these things a
 - Reacting Instead Of Responding
 - I'm Not Good Enough
 - Bad Things With Good Intensions
-
+  
 And The MOST IMPORTANT NOT COMMUNICATING
