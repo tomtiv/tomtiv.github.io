@@ -14,4 +14,4 @@ Doing This worked really well for a long time, it worked in a way that we didn't
 
 Note: I have since learned that what I was trying to do is called grounding, it's an attempt to bring her back to the moment. Sometimes it was as simple as holding her hand but other times it was much more difficult. Sam and me both needed to be able to ground ourselves or at least hear from the other that we needed to ground ourself.
 
-Doing Bad Things For Good Reasons Is NEVER GOING TO WORK
+Doing Bad Things For Good Reasons Was Never Going To Work, We set ourselves up to fail the moment we did this.
