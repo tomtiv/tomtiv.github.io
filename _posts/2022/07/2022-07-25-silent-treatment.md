@@ -10,4 +10,4 @@ This was Sam's bread and butter, it didn't take much for Sam to go cold and refu
 
 This was a massive trigger for me, I would become emotionally dysregulated almost immediately, my anxiety would rocket through the roof, I would lose all control and behave in ways I hated.
 
-Note: I accepted this behavior from her because and told her I wouldn't leave her for it as long as she was working on it. Sam and I thought that this was caused by some sort of disorder, perhaps something like borderline personality disorder. I've never seen anyone do anything like this before, if she or I were able to pull her back, she would either have no idea what she had done or she was devastated for what she had done.
+Note: I accepted this behavior from her because and told her I wouldn't leave her for it as long as she was working on it. Sam and I thought that this was an involuntary behavior, meaning she could not control it. I've never seen anyone do anything like this before, if she or I were able to pull her back, she would either have no idea what she had done or she was devastated for what she had done.
