@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Posts
+title: Writing
 tags: [writing]
 # cover-img: /assets/img/
 # thumbnail-img: /assets/img/
