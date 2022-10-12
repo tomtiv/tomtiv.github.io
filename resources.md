@@ -3,8 +3,8 @@ layout: page
 title: Resources
 ---
 {: .box-note}
-**Warning:** If you are in a vulnerable place, I strongly suggest that you look for support locally. 
-While these are good resources, it is by no means a linear path, it takes a lot of time and energy.
+**Warning:** If you are in a vulnerable place, I strongly suggest that you look for support locally.  
+While these are good resources, it is by no means a linear path, it takes a lot of time and energy.  
 
 ### YouTube
 
