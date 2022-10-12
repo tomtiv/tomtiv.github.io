@@ -8,6 +8,9 @@ While these are good resources, it is by no means a linear path, it takes a lot 
 
 ### YouTube
 
+[Hot To ADHD](https://www.youtube.com/c/HowtoADHD)
+I don't know how I forgot to add this resource, this channel is wonderful. If you have ADHD or think you may have it or have someone in your life that struggles with ADHD, this channel is probably the holy grail for ADHD.
+
 [Heidi Priebe](https://www.youtube.com/channel/UCqX3KQWXJll7_6orfHFuqBQ)
 I found her very late in my journey, Heidi is a great resource, She goes much deeper into many different topics.
 
