@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 ---
-My name is Thomas, ADHD, Anxious PreOccupied, ENFJ  
+My name is Thomas, ADHD, BPD, ADJDO, Anxious PreOccupied, ENFJ  
 
 ### My story
 
