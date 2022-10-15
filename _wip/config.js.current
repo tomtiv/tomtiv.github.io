@@ -39,10 +39,10 @@ let config = { address: "192.168.0.42", port: 8080, basePath: "/",
 		/* Top Left  Section  */
 
 		// { module: "MMM-ViewNotifications", position: "top_left", header: "Notifications", maximum: 15, config: { excludeModules: ["clock"] }},
-		{ module: "MMM-DateCounter", position: "top_left", config: {  updateInterval: 10000, remoteFile: null, eventDate: "2021-10-07", eventStartTime: "10:00",
+		{ module: "MMM-DateCounter", position: "top_center", config: {  updateInterval: 10000, remoteFile: null, eventDate: "2021-10-07", eventStartTime: "10:00",
 			eventTitle: "D-Day", showLongCountdown: true, longCountdownFormat: "month,week,day", longCountdownAutoSize: true, icon: "/modules/MMM-DateCounter/Flat_tick_icon.svg"}
 		},
-		{ module: "MMM-Worldclock", position: "top_left", config: { timeFormat: "hh:mm A", style: "right", offsetTimezone: null, 
+		{ module: "MMM-Worldclock", position: "top_center", config: { timeFormat: "hh:mm A", style: "right", offsetTimezone: null, 
 			clocks: [				
 					{ title: "Home", timezone: "America/Toronto", flag: "ca",}
 					,{ title: "Chicago", timezone: "America/Chicago", flag: "us",}		
@@ -63,7 +63,7 @@ let config = { address: "192.168.0.42", port: 8080, basePath: "/",
 /* Top right Section  */
 
 
-		{ module: "clock", position: "top_right", disabled: false, config: {clockBold: false, displaySeconds: true, showWeek: false, lat: "43.6205", lon: "-79.5132", timezone: "America/Toronto" }},
+		{ module: "clock", position: "top_center", disabled: false, config: {clockBold: false, displaySeconds: true, showWeek: false, lat: "43.6205", lon: "-79.5132", timezone: "America/Toronto" }},
 		// { module: "MMM-weatherforecast", position: "top_right", config: { location: "", untis: "metric", iconset: "colorful", layout: "horizontal", showRainAmount: false, locationID: "6167865", appid: "dff3cf64ce584e191e98a9a9b4dd8a73" },},		
 
 		// onlyTemp: false, 
@@ -73,21 +73,21 @@ let config = { address: "192.168.0.42", port: 8080, basePath: "/",
 		// showHumidity: true, 
 		// showWindDirectionAsArrow: false,
 
-		{ module: "weather", position: "top_right", config: { siteCode: "s0000458", provCode: "ON", location: "Toronto, ON",
+		{ module: "weather", position: "top_center", config: { siteCode: "s0000458", provCode: "ON", location: "Toronto, ON",
 			type: "current", weatherProvider: "envcanada", colored: true, showPrecipitationAmount: true,},
 		},
 
-		{ module: "weather", position: "top_right", config: { siteCode: "s0000458", provCode: "ON", location: "Toronto, ON",
+		{ module: "weather", position: "top_center", config: { siteCode: "s0000458", provCode: "ON", location: "Toronto, ON",
 			type: "hourly", weatherProvider: "envcanada",// colored: true, showPrecipitationAmount: true,
 			},
 		},
 
-		{ module: "weather", position: "top_right", config: { siteCode: "s0000458", provCode: "ON", location: "Toronto, ON",
+		{ module: "weather", position: "top_center", config: { siteCode: "s0000458", provCode: "ON", location: "Toronto, ON",
 			type: "daily", weatherProvider: "envcanada", //colored: true, showPrecipitationAmount: true,
 			},
 		},		
 
-		{ module: "weather", position: "top_right", config: { siteCode: "s0000458", provCode: "ON", location: "Toronto, ON",
+		{ module: "weather", position: "top_centert", config: { siteCode: "s0000458", provCode: "ON", location: "Toronto, ON",
 			type: "forecast", weatherProvider: "envcanada", //colored: true, showPrecipitationAmount: true,
 			},
 		},
@@ -337,7 +337,7 @@ let config = { address: "192.168.0.42", port: 8080, basePath: "/",
 			top_bar: { enabled: false }, 							
 			top_left: { enabled: true, ignoreModules: [], overrideTransitionInterval: 20000 },
 			top_center: { enabled: true, ignoreModules: [], overrideTransitionInterval: 20000 },
-			top_right: { enabled: true, ignoreModules: [], overrideTransitionInterval: 50000 },
+			top_right: { enabled: false, ignoreModules: [], overrideTransitionInterval: 50000 },
 			upper_third: { enabled: true, ignoreModules: [], overrideTransitionInterval: 20000 },
 			lower_third: { enabled: true, ignoreModules: [], overrideTransitionInterval: 15000 },
 			bottom_bar: { enabled: false }
