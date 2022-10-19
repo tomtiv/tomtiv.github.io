@@ -17,6 +17,9 @@ I found her very late in my journey, Heidi is a great resource, She goes much de
 [B BPD](https://www.youtube.com/c/BBPD123)
 B's focuses on what it's like for her to live with BPD, she's a really great place to learn about BPD that ignores all the toxic stuff you will see online.
 
+[Healthy Gamer](https://www.youtube.com/c/HealthyGamerGG)
+Dr K is a Psychologist and a youtuber, I've been following him for a couple of months. He covers all types of mental health and other topics. It's a great resource and I really enjoy his long form videos usually between 30 - 90 min
+
 [Madison DeCambra](https://www.youtube.com/watch?v=TxgKcMK8ajk&t=1s)
 Madison gives a very real and for me bang on explanation what BPD feels like for her and me
 
