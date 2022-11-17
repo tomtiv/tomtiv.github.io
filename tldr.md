@@ -5,7 +5,10 @@ title: Q&A
 ---
 <!-- {: .box-warning} -->
 
-***LAST UPDATE: OCT 2022***  
+***LAST UPDATE: Nov 2022***  
+
+***Q: Why did I stop working on this site?***  
+***A:*** Short answer is that this past year was so incredably difficult and while I've learned so much I am just starting my journey. I am not going to stop writing, I feel that changing the narrative and direction would be much more usefull to me and potentialy others.  
 
 ***Q: What was it like to find out you were BPD?***  
 ***A:*** It's very difficult to put it into words. It was terrifying but at the same time familiar, it finally gave me insight into why I had such strong emotions and unable to weather them.
