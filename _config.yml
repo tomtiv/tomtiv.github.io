@@ -137,11 +137,19 @@ site-js:
 
 # --- Web Analytics Section --- #
 
+ # www.tomtiv.com (UA-28760865-1)
+ # www.tomtiv.com (55584015)
+
+ # 365.tt.me (G-ML5R1HEJY3)
+
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-gtag: "G-XD201D26CJ"
+# gtag: "G-XD201D26CJ"
+gtag: "G-ML5R1HEJY3"
+
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-google_analytics: "G-35QLSPB213"
+# google_analytics: "G-35QLSPB213"
+google_analytics: "G-ML5R1HEJY3"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 cloudflare_analytics: "e3e3d9dac69344fd9d72e61b6dcf26ff"
