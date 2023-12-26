@@ -83,7 +83,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "365.tomtiv.me"
+url-pretty: "365.x2t.ca"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -139,13 +139,11 @@ site-js:
 
  # www.tomtiv.com (UA-28760865-1)
  # www.tomtiv.com (55584015)
-
  # 365.tt.me (G-ML5R1HEJY3)
+ # 365.x2t.ca G-FW9VJ10H3W
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-# gtag: "G-XD201D26CJ"
-gtag: "G-ML5R1HEJY3"
-
+gtag: "G-FW9VJ10H3W"
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
 # google_analytics: "G-35QLSPB213"
